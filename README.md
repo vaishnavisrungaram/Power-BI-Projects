@@ -1,4 +1,3 @@
-# Power-BI-Projects
 
 ### Superstore Sales Dashboard
 
